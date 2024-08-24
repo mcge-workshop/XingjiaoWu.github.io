@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently working as a postdoctoral fellow at Fudan University. 
 My research interests include computer vision, generative artificial intelligence, digital medicine, and human-in-the-loop computing. 
-I have published 40+ papers <a href='https://scholar.google.com/citations?user=BhA6vd0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXingjiaoWu%2FXingjiaoWu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in important international conferences/journals.
+I have published 40+ papers in important international conferences/journals.
 The paper published on FGCS won the Editor’s Choice Papers, and the paper at the McGE ’23 conference won the Best Paper Award. 
 I preside over the open subject project of Shanghai Key Laboratory of Multi-Dimensional Information Processing, the academic innovation ability improvement plan project for outstanding doctoral students of East China Normal University, and as the project leader preside over Huawei's Noah's Ark laboratory cooperation project, etc. 
 The research work won the first prize in the 2022 Shanghai Technological Invention Award (ranking 13/15, the only student), the second prize in the 2022 Scientific and Technological Progress Award (ranking 6/10).
