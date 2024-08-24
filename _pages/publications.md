@@ -1,9 +1,14 @@
 ---
 layout: archive
-title: "# 📝 学术成果（部分）"
+title: "📝 学术成果（部分）"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
 
 
 - __X. Wu__, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers (编委会从近五年发表论文中提名评选，入选率约0.5% )，ESI高被引论文]（中科院一区，IF=6.2）
