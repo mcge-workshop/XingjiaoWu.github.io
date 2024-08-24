@@ -13,7 +13,7 @@ title                    : "吴兴蛟 / 博士后"
 title_separator          : "-"
 name                     : &name "吴兴蛟"
 description              : &description "复旦大学 博士后"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://XingjiaoWu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XingjiaoWu/XingjiaoWu.github.io/"
 
