@@ -38,7 +38,7 @@ author:
   dblp             : "https://dblp.uni-trier.de/pid/232/1759.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-9146-051X" # e.g., "https://orcid.org/xxxx"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Xingjiao-Wu-2"# e.g., "https://www.researchgate.net/profile/yourprofile"
 
   # Repositories and software development
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
