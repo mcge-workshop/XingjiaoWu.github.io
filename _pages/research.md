@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "主要研究工作 "
+permalink: /research/
 author_profile: true
 redirect_from:
   - /resume

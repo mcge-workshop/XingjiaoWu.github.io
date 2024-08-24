@@ -8,17 +8,14 @@ main:
   - title: "学术成果（部分）"
     url: /publications/
 
+  - title: "研究工作"
+    url: /research/
+
   - title: "奖励荣誉"
-    url: /talks/    
+    url: /honors/
 
   - title: "项目经历"
-    url: /cv/    
-    
+    url: /project/
+
   - title: "English"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /english/
