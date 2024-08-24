@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "奖励荣誉"
+title: "🎖奖励荣誉"
 permalink: /honors/
 author_profile: true
 redirect_from:
@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-# 🎖 奖励荣誉 
 - 2022年度上海市科学技术奖（技术发明奖一等奖）（上海市人民政府） （2023，排名13/15，唯一学生）
 - 2022年度上海市科学技术奖（科技进步奖二等奖）（上海市人民政府） （2023，排名6/10）
 - 2020中国大学生自强之星（共青团中央、全国学联）(2021，华师大当年度唯一入选)
