@@ -12,25 +12,32 @@ redirect_from:
 
 
 --------------------------------------------------------2025-----------------------------------------------------------------------------------------
+
 -T. Huai, J. Zhang,__X. Wu$^*$__, J. Jin, L. He. Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations[J]. Expert Systems with Applications, 2025, 274: 126892.（通讯作者，中科院一区，IF=7.5）
 -Z. Zhou, X. Du, Y. Zheng, X. Wu, C. Jin, An Exemplar-based Framework for Chinese Text Recognition, AAAI, 2025 (CCF A类会议)
 -Z. Xie, C. Han, J. Shi, W. Cui, X. Zhao, X. Wu, J. Zhao. RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation，ACL，2025(CCF A类会议)
 -J. Shi, J. Zhao, X. Wu, R. Xu, Y. Jiang, L. He. Mitigating reasoning hallucination through Multi-agent Collaborative Filtering[J]. Expert Systems with Applications, 2025, 263: 125723.（中科院一区，IF=7.5）
 -X. Du，Z. Zhou，Y. Wang，Y. Zheng，X. Wu，P. Gong，C. Jin. Unleashing the Semantic Adaptability of Controlled Diffusion Model for Image Colorization, IJCAI, 2025(CCF A类会议)
 -T. Huai, J. Zhou, X. Wu, Q. Chen, Q. Bai, Z. zhou, L. He. CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering, CVPR, 2025(CCF A类会议)
+
 --------------------------------------------------------2024-----------------------------------------------------------------------------------------
+
 - __X. Wu__, L. Xiao, X. Du, Y. Zheng, X. Li, T. Ma, C. Jin, L. He,Cross-domain document layout analysis using document style guide, Expert Systems with Applications，2024（中科院一区，IF=7.5）
 -L. Xiao,__X. Wu$^*$__, J. Xu, W. Li, C. Jin, L. He. Atlantis: Aesthetic-oriented Multiple Granularities Fusion Network for Joint Multimodal Aspect-based Sentiment Analysis, Information Fusion, 2024.（通讯作者，中科院一区，IF=14.7, ESI高被引）
 -J. Liao ,__X. Wu$^*$__,Y. Wu and J. Shu. K-NNDP: K-means algorithm based on nearest neighbor density peak optimization and outlier removal, Knowledge-Based Systems, 2024.（通讯作者，中科院一区，IF=7.2）
 -X. Du, Z. Zhou,__X. Wu$^*$__, Y. Wang, Z. Wang, Y. Zheng, C. Jin*. MultiColor: Image Colorization by Learning from Multiple Color Spaces, ACM Multimedia, 2024.（共同通讯作者，CCF A）
+
 --------------------------------------------------------2023-----------------------------------------------------------------------------------------
+
 -Y. Wan, W. Li,__X. Wu$^*$__, J. Xu, and J. Yang. Auto-matic Image Aesthetic Assessment for Human-designed Digital Images. McGE ’23.2023.[Best paper] (通讯作者，CCF A类会议Workshop)
 - __X. Wu__, T. Ma, X. Du, Z. Hu, J. Yang, L. He, DRFN: A unified framework for complex document layout analysis, Information Processing & Management., 2023.（中科院一区，IF=7.4）
 -L. Xiao,__X. Wu$^*$__, S. Yang, J. Xu, J. Zhou, L. He. Cross-modal Fine-grained Alignment and Fusion Network for Multimodal Aspect-based Sentiment Analysis, Information Processing & Management, 2023.（通讯作者，中科院一区，IF=7.4）
 -T. Ma, X. Wu†, X.Du, Y. Wang, C. Jin, Image Layer Modeling for Complex Document Layout Generation, ICME, 2023.（共一，CCF B类会议）
 -J. Zhang, Z. Zhuang, L. Xiao,__X. Wu$^*$__, T. Ma, L. He, Dual-Expert Distillation Network for Few-Shot Segmentation. ICME, 2023.（通讯作者，CCF B类会议）
 -X Li, T Ma, Y Hou, B Shi, Y Yang, Y Liu, X Wu, Q Chen, Y Li, Y Qiao, L He. Logonet: Towards accurate 3d object detection with local-to-global cross-modal fusion[C]. CVPR. 2023: 17524-17534.
+
 --------------------------------------------------------2022-----------------------------------------------------------------------------------------
+
 - __X. Wu__, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers (编委会从近五年发表论文中提名评选，入选率约0.5% )，ESI热点论文、ESI高被引论文]（中科院一区，IF=6.2）
 -L. Xiao, X. Wu†, W. Wu ,J. Yang, L. He. Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis. ICASSP, 2022.（共一，CCF B类会议）
 --------------------------------------------------------2021-----------------------------------------------------------------------------------------
